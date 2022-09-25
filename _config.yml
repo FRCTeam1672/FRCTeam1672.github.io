@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Robo-T-Birds — Team 1672"
+title: "Robo-T-Birds - Team 1672"
 email: team1672@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Mahwah Robo T-Birds are a team of bright, driven Mahwah High School
@@ -29,7 +29,7 @@ twitter_username: frcteam1672
 github_username:  FRCTeam1672
 youtube_username: frcteam1672
 facebook_username: frcteam1672
-instagram_username: mahwahrobotbirds
+instagram_username: frcteam1672
 
 # Build settings
 theme: minima
