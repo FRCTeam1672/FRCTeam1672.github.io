@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsor Us
-permalink: /sponsorus/
+title: Sponsor Us :)
+permalink: /sponsor-us/
 ---
 
 ## ***Who We Are***
