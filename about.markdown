@@ -8,6 +8,6 @@ The Mahwah Robo T-Birds is a team of bright, driven Mahwah High School students 
 
 ![RapidReact](https://secureservercdn.net/50.62.90.29/ygj.f73.myftpupload.com/wp-content/uploads/2022/01/RAPID_REACT_Logo_Horizontal_RGB_FullColorReverse-01-2048x761.png)
 Our socials:
-- [GitHub](https://github.com/jekyll)
+- [GitHub](https://github.com/FRCTeam1672)
 - [Twitter](https://twitter.com/FRCTeam1672)
 - [Instagram](https://www.instagram.com/frcteam1672)
