@@ -182,6 +182,7 @@ defaults:
 exclude:
   - CHANGELOG.md
   - CNAME
+  - TODOS
   - Gemfile
   - Gemfile.lock
   - LICENSE
