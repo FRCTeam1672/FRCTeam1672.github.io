@@ -10,3 +10,22 @@ body {
 .navbar-brand:hover {
   color: #AEAEAE !important;
 }
+
+.navbar-custom .navbar-collapse {
+  border-top: none !important;
+}
+
+.nav-link {
+  margin-right: 1rem;
+  padding: 0 !important;
+}
+
+blockquote {
+  border-left: 3px solid #ccc;
+  margin: 1.5em 0;
+  padding: 0 0.5em;
+}
+blockquote p {
+  display: inline-block;
+  margin: 0;
+}
