@@ -19,3 +19,16 @@ Write about what *FIRST* is. Make people who don't know about *FIRST* see why it
 ![Optimum](/assets/img/sponsors/Optimum.jpg) ![OWM](/assets/img/sponsors/OWM.jpg){: .mx-auto.d-block :}
 ![Inserra](/assets/img/sponsors/InserraSupermarkets.jpg){: .mx-auto.d-block :}
 ![Mahwah Schools](/assets/img/sponsors/mahwah.png){: .mx-auto.d-block :}
+
+<script>
+  // Netlify authentication
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
