@@ -6,7 +6,7 @@ layout: page
 
 ## Who are we?
 
-The Mahwah Robo T-Birds are a team of bright, driven Mahwah High School students that compete in the FIRST Robotics Competition—a worldwide tournament in which high schools from around the world conceive and build their own robot to compete/cooperate in a yearly game. The team was founded in 2005 and has competed in every season since then.
+The Mahwah Robo-T-Birds are a team of bright, driven Mahwah High School students that compete in the FIRST Robotics Competition—a worldwide tournament in which high schools from around the world conceive and build their own robot to compete/cooperate in a yearly game. The team was founded in 2005 and has competed in every season since then.
 
 ## What is the *FIRST* Robotics Competition?
 
