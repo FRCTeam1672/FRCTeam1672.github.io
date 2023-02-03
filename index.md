@@ -6,11 +6,11 @@ layout: page
 
 ## Who are we?
 
-Write about who we are here. Make it good. Better than the last website. Anyway, We're no strangers to love, You know the rules and so do I, A full commitment's what I'm thinking of, You wouldn't get this from any other guy, I just wanna tell you how I'm feeling, Gotta make you understand, Never gonna give you up, Never gonna let you down, Never gonna run around and desert you, Never gonna make you cry, Never gonna say goodbye, Never gonna tell a lie and hurt you!
+The Mahwah Robo T-Birds are a team of bright, driven Mahwah High School students that compete in the FIRST Robotics Competition—a worldwide tournament in which high schools from around the world conceive and build their own robot to compete/cooperate in a yearly game. The team was founded in 2005 and has competed in every season since then.
 
-## What is *FIRST*?
+## What is the *FIRST* Robotics Competition?
 
-Write about what *FIRST* is. Make people who don't know about *FIRST* see why it's awesome. Now, Somebody once told me the world is gonna roll me, I ain't the sharpest tool in the shed, She was looking kind of dumb with her finger and her thumb, In the shape of an "L" on her forehead, Well, the years start coming and they don't stop coming, Fed to the rules and I hit the ground running, Didn't make sense not to live for fun, Your brain gets smart but your head gets dumb.
+The *FIRST* Robotics Competition is a yearly competition in which students get six weeks to design, build, test, and practice with a robot to compete against other teams in a challenge that changes every year. Students get assistance from mentors to help them go through the engineering design and manufacturing processes. In previous years, game challenges have included throwing frisbees, shooting foam balls, hanging on bars, and balancing robots on a see-saw in cooperation with other teams.
 
 ## Our Sponsors
 
