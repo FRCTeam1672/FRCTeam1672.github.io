@@ -14,11 +14,14 @@ The *FIRST* Robotics Competition is a yearly competition in which students get s
 
 ## Our Sponsors
 
-![Orange & Rockland](/assets/img/sponsors/orange_rockland.png){: .mx-auto.d-block :}
-![Shocktech](/assets/img/sponsors/shocktech.png){: .mx-auto.d-block :} ![Aldi](/assets/img/sponsors/aldi.png){: .mx-auto.d-block :}
-![Optimum](/assets/img/sponsors/Optimum.jpg) ![OWM](/assets/img/sponsors/OWM.jpg){: .mx-auto.d-block :}
-![Inserra](/assets/img/sponsors/InserraSupermarkets.jpg){: .mx-auto.d-block :}
-![Mahwah Schools](/assets/img/sponsors/mahwah.png){: .mx-auto.d-block :}
+![Hytorc](/assets/img/sponsors/hytorc.png)
+![Inserra Supermarkets](/assets/img/sponsors/inserra.png)
+![Stelron](/assets/img/sponsors/stelron.png){: style="padding-top:100px; padding-bottom:50px" }
+![Orange and Rockland](/assets/img/sponsors/orangeandrockland.png){: style="padding-top:50px; padding-bottom:100px" }
+![Optimum](/assets/img/sponsors/optimum.png)
+![Columbia Bank](/assets/img/sponsors/columbia_bank.png){: style="padding-top:100px;" }
+![Shock Tech](/assets/img/sponsors/shock_tech.png){: height="399px" width="750px" style="padding-top:100px;" }
+![Mahwah Schools](/assets/img/sponsors/mahwah.png){: height="399px" width="750px" style="padding-top:100px;" }
 
 <script>
   // Netlify authentication
