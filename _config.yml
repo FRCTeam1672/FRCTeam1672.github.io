@@ -25,6 +25,7 @@ navbar-links:
   About Us: "about"
   Sponsor Us: "sponsor"
   Blog: "blog"
+  Charged Up: "2023game"
   #Store: "https://store.page/here/soon/pls"
 
 ################
@@ -107,17 +108,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#529ED0"
+navbar-col: "#163950"
 navbar-text-col: "#AEAEAE"
 navbar-border-col: "#AEAEAE"
 page-col: "#1F2B35"
 text-col: "#CFCFCF"
 link-col: "#529ED0"
 hover-col: "#529ED0"
-footer-col: "#529ED0"
+footer-col: "#163950"
 footer-text-col: "#AEAEAE"
 footer-link-col: "#AEAEAE"
-footer-hover-col: "#529ED0"
+footer-hover-col: "#163950"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
