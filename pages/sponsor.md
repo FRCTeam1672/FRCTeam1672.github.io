@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sponsor Us
+permalink: /sponsor/
 ---
 
 ## How can you help?

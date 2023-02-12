@@ -9,6 +9,8 @@
 # --- Required options --- #
 ############################
 
+include: [pages]
+
 # Name of website
 title: Robo-T-Birds
 
@@ -105,14 +107,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#040707"
+navbar-col: "#529ED0"
 navbar-text-col: "#AEAEAE"
 navbar-border-col: "#AEAEAE"
 page-col: "#1F2B35"
 text-col: "#CFCFCF"
 link-col: "#529ED0"
 hover-col: "#529ED0"
-footer-col: "#040707"
+footer-col: "#529ED0"
 footer-text-col: "#AEAEAE"
 footer-link-col: "#AEAEAE"
 footer-hover-col: "#529ED0"

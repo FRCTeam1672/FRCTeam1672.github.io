@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+permalink: /about/
 ---
 
 The Mahwah Robo-T-Birds are a team of bright, driven Mahwah High School students that compete in the FIRST Robotics Competition—a worldwide tournament in which high schools from around the world conceive and build their own robot to compete/cooperate in a yearly game. 
