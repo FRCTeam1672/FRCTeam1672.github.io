@@ -193,6 +193,7 @@ exclude:
   - screenshot.png
   - docs/
   - vendor
+  - "**/lib/site_template/**"
 
 plugins:
   - jekyll-paginate
