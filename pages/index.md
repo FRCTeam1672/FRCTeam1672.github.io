@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-![Team](/assets/img/team_photo.jpg)
+![Team](/assets/img/team_photo24.jpg)
 
 ## Who are we?
 
