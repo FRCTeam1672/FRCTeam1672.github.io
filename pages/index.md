@@ -15,9 +15,7 @@ The *FIRST* Robotics Competition is a yearly competition in which students get s
 
 ## Our Sponsors
 
-![Hytorc](/assets/img/sponsors/hytorc.png)
 ![Inserra Supermarkets](/assets/img/sponsors/inserra.png)
-![Stelron](/assets/img/sponsors/stelron.png){: style="padding-top:100px; padding-bottom:50px" }
 ![Orange and Rockland](/assets/img/sponsors/orangeandrockland.png){: style="padding-top:50px; padding-bottom:100px" }
 ![Optimum](/assets/img/sponsors/optimum.png)
 ![Gene Haas Foundation](/assets/img/sponsors/GeneHaasFoundation){: style="padding-top:100px;" }
