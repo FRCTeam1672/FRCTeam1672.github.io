@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FRC Crescendo
-permalink: /2024game/
+title: FRC Charged Up
+permalink: /2023game/ 
 ---
 
 ![Season Logo](/assets/img/CrescendoLogo.png)
