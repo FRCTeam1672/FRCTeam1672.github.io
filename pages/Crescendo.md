@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FRC Charged Up
-permalink: /2023game/ 
+title: FRC Crescendo
+permalink: /2024game/ 
 ---
 
 ![Season Logo](/assets/img/CrescendoLogo.png)
@@ -11,4 +11,4 @@ permalink: /2023game/
 
 In the 2024 FIRST Robotics Competition game, CRESCENDO, two alliances of three teams each aim to score or play musical notes in various field elements, amplify their speakers, harmonize, and take the spotlight before the time runs out. Alliances can earn additional rewards for meeting specific scoring thresholds, cooperating with opponents, and strategically playing notes in amplified speakers for increased points.
 
-Our Build Log can be found on our [Blog](../blog/index.html), or on [Chief Delphi](https://www.chiefdelphi.com/t/1672-robo-t-birds-2023-build-thread/419228)
+Our Build Log can be found on our [Blog](../blog/index.html)
