@@ -17,7 +17,7 @@ The *FIRST* Robotics Competition is a yearly competition in which students get s
 
 ![Inserra Supermarkets](/assets/img/sponsors/inserra.png)
 ![Orange and Rockland](/assets/img/sponsors/orangeandrockland.png){: style="padding-top:50px; padding-bottom:100px" }
-![Optimum](/assets/img/sponsors/optimum.png)
+![Optimum](/assets/img/sponsors/optimum.png){: style="padding-top:50px; padding-bottom:100px" }
 ![Gene Haas Foundation](/assets/img/sponsors/GeneHaasFoundation){: style="padding-top:100px;" }
 ![Shock Tech](/assets/img/sponsors/shock_tech.png){: height="399px" width="750px" style="padding-top:100px;" }
 ![Mahwah Schools](/assets/img/sponsors/mahwah.png){: height="399px" width="750px" style="padding-top:100px;" }
