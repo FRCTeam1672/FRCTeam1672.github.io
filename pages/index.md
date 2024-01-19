@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /home/
+permalink: /
 ---
 
 ![Team](/assets/img/team_photo24.jpg)
