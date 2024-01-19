@@ -22,12 +22,12 @@ author: Robo-T-Birds
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "/"
   About Us: "about"
   Sponsor Us: "sponsor"
-  Blog: "blog"
   Crescendo: "2024game"
   Charged Up: "2023game"
+  Blog: "blog"
 
   #Store: "https://store.page/here/soon/pls"
 
