@@ -22,7 +22,7 @@ author: Robo-T-Birds
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "home"
   About Us: "about"
   Sponsor Us: "sponsor"
   Blog: "blog"
